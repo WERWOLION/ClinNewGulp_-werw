@@ -1,0 +1,25 @@
+@import "fontsRun.scss";
+
+body{
+  font-size: 16px;
+ 
+}
+
+h1{
+  font-size: 39px;
+  color: rgb(95, 37, 37);
+}
+.header{
+  background-color: aquamarine;
+}
+
+.wer{
+  height: 300px;
+  width: 300px;
+  font-size: 33px;
+  background-image: url("../img/3www.png");
+  // background-color: rgb(241, 213, 54);
+}
+div {
+  background-image: url("../img/3www.png");
+}
